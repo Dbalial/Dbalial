@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Debojyoti 👋
 
 I'm a proactive and analytical Business Analyst with experience in client communication, requirement gathering, and project management. I have a proven track record of supporting strategic decision-making through SQL, KPI tracking, and dashboarding.
 
